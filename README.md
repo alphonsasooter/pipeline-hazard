@@ -118,19 +118,8 @@ Combines all hazard types in a single program — RAW hazards from comparisons, 
 
 ---
 
-## 🎯 Key Takeaways
-
-- ✅ **Forwarding** eliminates most RAW hazards without stalls
-- ⚠️ **Load-Use hazards** always introduce at least **1 stall cycle** — unavoidable
-- 🔄 **Control hazards** cause **pipeline flushes** on branch mispredictions
-- 📉 **Without hazard detection**, the processor executes instructions **incorrectly**
-- 🏗️ Proper hardware design (forwarding + hazard detection) is essential for correctness
-
----
-
 ## 👨‍💻 Authors
 
-> 📌 *Add your name, college, and course details here.*
 
 ```
 Name   : Alphonsa Sooter,Ancy Wilson,Annmariya Saju,Anix k Binoj,Irin Ann Shaji
