@@ -122,7 +122,7 @@ Combines all hazard types in a single program — RAW hazards from comparisons, 
 
 
 ```
-Name   : Alphonsa Sooter,Ancy Wilson,Annmariya Saju,Anix k Binoj,Irin Ann Shaji
+Name   : Alphonsa Sooter,Ancy Wilson,Anix K Binoj,Annmariya Saju,Irin Ann Shaji
 Course : Computer Organization &  Architecture
 College: MBCCET
 Year   : 2024-2028
