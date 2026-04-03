@@ -104,17 +104,7 @@ Combines all hazard types in a single program — RAW hazards from comparisons, 
 | RISC-V Assembly (RV32I) | Writing test programs          |
 | Ripes Pipeline Viewer | Observing stalls, flushes, forwarding |
 
----
 
-## ▶️ How to Run
-
-1. **Download Ripes** from [github.com/mortbopet/Ripes/releases](https://github.com/mortbopet/Ripes/releases)
-2. Open Ripes and select **5-Stage Pipelined Processor**
-3. Enable **Forwarding** and **Hazard Detection** as needed
-4. Load any `.s` file:
-   - Go to **Editor** tab → paste or open the `.s` file
-5. Click **Run** or step through instruction-by-instruction
-6. Observe the **Pipeline Diagram** for stalls (bubbles) and flushes
 
 ---
 
